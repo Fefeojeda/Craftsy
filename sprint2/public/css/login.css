@@ -1,0 +1,14 @@
+.login main {
+    display: flex;
+    justify-content: center;
+}
+
+.login .main-container {
+    display: flex;
+    width: 350px;
+}
+.login-form-wrap {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+}
